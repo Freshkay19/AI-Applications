@@ -1,4 +1,4 @@
-# AI Applications in Machine Learning, Neural Networks, and Speech Recognition
+# AI Applications in Machine Learning, Neural Networks, and Speech Recognition - Task 1
 
 ## Overview
 This repository showcases real-life applications of AI technologies in Machine Learning, Neural Networks, and Speech Recognition. Each section provides examples of companies utilizing these technologies, along with their specific applications and website links.
